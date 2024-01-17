@@ -1,0 +1,14 @@
+array 4x4
+1-problemas estão noutro ficheiro
+2-permitir inserir outros problemas que serão adicionados ao ficheiro de problemas cada problema tem que ter um nome e nao pode ser igual
+3- permitir alterar o nome do problema
+4-problemas aleatórios , ou seja se finalizar um ou dar restart aparecer outro problema
+5- caso a jogada seja invalida apresentar ao utilizador, cada vez que o utilizador jogue corretamente tem que mostrar novamente o jogo, caso o jogador 
+faça duas jogadas invalidas o jogo dá-se como perdido.
+6- permitir remover um numero desde que nao sejam os iniciais
+7-permitir abortar um jogo e iniciar um novo	
+8-Consulta dos problemas existentes e de quantas vezes cada um foi jogado na execução
+atual do programa.
+Consulta do número total de jogos realizados, do número de jogos concluídos com
+sucesso e da percentagem de sucesso (com uma casa decimal)
+9-Sair do programa

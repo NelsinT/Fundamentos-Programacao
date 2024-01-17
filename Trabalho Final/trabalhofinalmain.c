@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include "teste_sudoku.c"
+
 
 int main()
 {
@@ -24,7 +26,7 @@ int main()
                 //  Alterar Nome do Problema
                 break;
             case 3:
-                // Jogar Sudoku
+                play();
                 break;
             case 4:
                 // Consultas e Estatísticas
