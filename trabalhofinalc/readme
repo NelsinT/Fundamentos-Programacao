@@ -1,23 +1,24 @@
-Bem vindo ao meu jogo de sudoku, com este manual conseguirás utilizar programa e
-aproveitar de um belo jogo realizado na linguagem de alto nível C.
+Sudoku Game in C
+Bem-vindo ao meu jogo de Sudoku em C! Este programa oferece uma experiência interativa para adicionar, renomear, jogar e consultar estatísticas sobre problemas de Sudoku. Siga as instruções abaixo para desfrutar de uma experiência envolvente.
+
 Menu Principal:
-Ao iniciar o programa irá aparecer uma mensagem com o menu principal
-Para adicionar um problema digite 1
-O programa permitirá que você adicione um novo problema de Sudoku.
-Siga as instruções apresentadas para fornecer as informações necessárias sobre o problema.
-Para alterar nome do Problema digite 2:
+Adicionar Problema (Digite 1):
+
+Adicione um novo problema de Sudoku seguindo as instruções apresentadas.
+Alterar Nome do Problema (Digite 2):
+
 Escolha o problema que deseja renomear e siga as instruções para fornecer um novo nome.
-Para jogar Sudoku digite 3:
-O programa iniciará um jogo de Sudoku. Siga as instruções para preencher os espaços vazios e
-tente resolver o sudoku.
-Para consultar as estatísticas digite 4
-O programa exibirá estatísticas sobre os problemas de Sudoku, incluindo o número de vezes
-que cada problema foi completado e o número total de jogos concluídos.
-Para sair digite 5 sair:
-Encerra o programa
+Jogar Sudoku (Digite 3):
+
+Inicie um jogo de Sudoku. Siga as instruções para preencher os espaços vazios e resolver o Sudoku.
+Consultar Estatísticas (Digite 4):
+
+Veja estatísticas sobre os problemas de Sudoku, incluindo o número de vezes que cada problema foi completado e o número total de jogos concluídos.
+Sair (Digite 5):
+
+Encerra o programa.
 Observações:
-Certifique-se que segue as instruções dadas acima e as introduções dada pelo programa para
-uma melhor experiência.
-Os sudokus são armazenados numa pasta com o nome sudokus.
-Qualquer problema contacte o criador – nelsoncunha2101@gmail.com
+Certifique-se de seguir as instruções apresentadas pelo programa para uma experiência mais suave.
+Os Sudokus são armazenados na pasta com o nome "sudokus".
+Para qualquer problema, entre em contato com o criador em nelsoncunha2101@gmail.com.
 Boa sorte e bom jogo!
